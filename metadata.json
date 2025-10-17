@@ -1,0 +1,7 @@
+{
+  "name": "EchoSphere Chat",
+  "description": "A modern real-time chat application where users can connect via unique user IDs and share text messages, audio recordings, videos, and documents.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
